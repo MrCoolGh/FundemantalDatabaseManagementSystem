@@ -1,0 +1,9 @@
+Feedback for: xuanhz
+--------------------------------------------------------------
+Total Score: 99
+Unit Test Score: 75
+System Test Score: 5
+Code Score: 9
+Writeup Score: 10
+--------------------------------------------------------------
+"Writeup Feedback: Good job   Code Feedback: (-1) In your HeapFileIterator.next() it should be while loop rather than an if/else. What happens if this page doesn't have a next(), you should go to the next page in the bufferpool and keep going until hasNext() is true for that page"

@@ -1,0 +1,14 @@
+Feedback for: xuanhz
+--------------------------------------------------------------
+Total Score (%): 96
+Unit Test Score (out of 15): 15
+System Test Score (out of 6): 5
+Code Score (out of 10): 10
+Writeup Score (out of 10): 10
+--------------------------------------------------------------
+Great Job on the writeup. Great job on the code, although you
+did fail some systemtests, if you were able to pass all tests
+locally please contact the staff. 
+
+EDIT: Some of the tests reliably pass on attu7. Updated the
+system test score to reflect this.
